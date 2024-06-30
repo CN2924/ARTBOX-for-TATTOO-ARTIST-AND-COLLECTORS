@@ -12,7 +12,7 @@ Community forum for tattoo enthusiasts
 Rating and review system
 
 Installation
-Copygit clone https://github.com/yourusername/artbox.git
+Copygit clone https://github.com/CN2924/artbox.git
 cd artbox
 npm install
 Usage
